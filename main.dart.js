@@ -113575,7 +113575,7 @@ if(h==null){h=self.window.devicePixelRatio
 if(h===0)h=1}h=m.q(0,h)
 m=A.z(8)
 g=A.aM(B.o,1)
-h=A.ad(d,A.h(d,A.ah(A.d(d,d,d,"Clear All",d,d),d,d),B.b,d,d,new A.v(B.m,d,g,m,d,d,B.j),d,40,d,d,d,d,d,h.a/2.5),B.q,!1,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,new A.aI7(i),d,d,d,d,d,d)
+h=A.ad(d,A.h(d,A.ah(A.d(d,d,d,"Clear2 All",d,d),d,d),B.b,d,d,new A.v(B.m,d,g,m,d,d,B.j),d,40,d,d,d,d,d,h.a/2.5),B.q,!1,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,new A.aI7(i),d,d,d,d,d,d)
 m=$.e().xr
 m=$.c.k$.z.h(0,m)
 m.toString
